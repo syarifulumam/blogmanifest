@@ -1,0 +1,36 @@
+{
+  "name": "Gawe Art",
+  "short_name": "Gawe Art",
+  "start_url": "https://www.gaweart.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#ed4d2d",
+  "description": "Tempat Belajar Editing Foto Melalui Komputer Maupun Smartphone",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgiTc9jxqmkI-9kgFdvOg386WoZiEHr1VeG60RYJ46hb8R3QCtATTdqJBd8Coa7KmcdtBBetI3Aa1aaUM_6_0e_-t_l_tLsGnF41etAwnmfZspFALs066y9zwXD40z94lFgWgVlMO65e72kZlZM9jb1O9Eg3dA4_mGi5EacqP01yZMfm0V1UhO52nkbZw=s36",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEg1fd2YeN-R2dMxo1PyxHg5utMcV1Wnz925qiBkqJy5Vpzo1HrU-IFCdhhbV_V0T4rJQjInr1YddAWRz1wsTE3b8Pxd4jrLUnFrLKYv6JEqeZIX6ICrp6fwu5_RgerVwG9RcMzCCcLXXvSy4OOV9vAGGcvarTZPMnUj-e-jteuhHf3BvzuKP-FM2FpULA=s57",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgBV0PHD8Gd5giSMo-f7Bi_Qgl_saVUTLf3jxIJj1SYhaq0hE3s3CxcbC9rjWAv8pQ5xe5zlCmGEoBW2rCluK--amXZxQseHkp7IiepTr24I1EvMl06YE4zbIGEKj7ZgIX0HIjgQ8baXFIEUVmKYXL1Ro4dP3rGyidEa1lBQcoFsKG9rIAAQ9dDm1U7Bg=s114",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgqfIA28Y5kDdNLRoRDBE-7nTmyhEKDZGoTNJlGpTw4XA5stzVdxQfkWr55PCOAsU1VIe6TjITmUG13BYi1n3Bq2PGSTe7rDye6d87Cr8AYa0kUf2eQWKsmdhyrO2Vl4Qlt2n2pM5T-Tem-nQ8-tnKBJrupc-r8tVBprYNo46YqJjq30ZF6IP6gJFNCVg=s144",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgveq6bJWw19bcOz-lFZxUihUUKVuwAkNhqO3lolp0JeWU_QSbYqSEu1ZmIvW8wlaQ2rVFbO8qVnBkUaT3N4uW1rjjeQXRsIaSveCOLCJoPjXy42enFsWsD0VI8VRrs7mQd_xy6qUzTBkAZ6jiZFon3dSi7HuHuEI2MGfsmvN9vVxJqtSg3lGHgSQ6D8A=s192",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
